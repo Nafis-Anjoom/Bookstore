@@ -1,0 +1,68 @@
+{"books": [
+    {
+        "image": "physics.jpg",
+        "quantity": 100,
+        "price": 100,
+        "name": "Intro physics",
+        "id": "1921",
+        "isBorrowable": false,
+        "category": "Textbook"
+    },
+    {
+        "image": "chem.jpg",
+        "quantity": 100,
+        "price": 50,
+        "name": "Intro Chemistry",
+        "id": "2794",
+        "isBorrowable": false,
+        "category": "Textbook"
+    },
+    {
+        "image": "bio.jpg",
+        "quantity": 0,
+        "price": 75,
+        "name": "Intro biology",
+        "id": "3424",
+        "isBorrowable": false,
+        "category": "Textbook"
+    },
+    {
+        "image": "broke.jpg",
+        "quantity": 100,
+        "price": 1000000,
+        "name": "You Can't Afford This",
+        "id": "9999",
+        "isBorrowable": false,
+        "category": "Textbook"
+    },
+    {
+        "image": "gr.jpg",
+        "quantity": 100,
+        "rentCost": 2,
+        "price": 20,
+        "name": "Great Gatsby",
+        "id": "4567",
+        "isBorrowable": true,
+        "category": "Novel"
+    },
+    {
+        "image": "fut.jpg",
+        "quantity": 100,
+        "rentCost": 5,
+        "price": 45,
+        "name": "Fulton Street",
+        "id": "7896",
+        "isBorrowable": true,
+        "category": "Novel"
+    },
+    {
+        "image": "1984.jpg",
+        "quantity": 100,
+        "rentCost": 7,
+        "price": 55,
+        "name": "1984",
+        "id": "0968",
+        "isBorrowable": true,
+        "category": "Novel"
+    }
+]}

@@ -1,0 +1,32 @@
+{
+    "rentedBooks": [{
+        "image": "1984.jpg",
+        "quantity": 99,
+        "rentCost": 7,
+        "price": 55,
+        "name": "1984",
+        "id": "0968",
+        "isBorrowable": true,
+        "category": "Novel"
+    }],
+    "purchasedBooks": [{
+        "image": "physics.jpg",
+        "quantity": 99,
+        "price": 100,
+        "name": "Intro physics",
+        "id": "1921",
+        "isBorrowable": false,
+        "category": "Textbook"
+    }],
+    "name": "Sample",
+    "booksWishlist": [{
+        "image": "chem.jpg",
+        "quantity": 100,
+        "price": 50,
+        "name": "Intro Chemistry",
+        "id": "2794",
+        "isBorrowable": false,
+        "category": "Textbook"
+    }],
+    "funds": 893
+}
